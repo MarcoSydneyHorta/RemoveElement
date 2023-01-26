@@ -1,0 +1,13 @@
+D:\Marco\Cursos\C#\RemoveElement\RemoveElement\bin\Debug\netcoreapp3.1\RemoveElement.exe
+D:\Marco\Cursos\C#\RemoveElement\RemoveElement\bin\Debug\netcoreapp3.1\RemoveElement.deps.json
+D:\Marco\Cursos\C#\RemoveElement\RemoveElement\bin\Debug\netcoreapp3.1\RemoveElement.runtimeconfig.json
+D:\Marco\Cursos\C#\RemoveElement\RemoveElement\bin\Debug\netcoreapp3.1\RemoveElement.runtimeconfig.dev.json
+D:\Marco\Cursos\C#\RemoveElement\RemoveElement\bin\Debug\netcoreapp3.1\RemoveElement.dll
+D:\Marco\Cursos\C#\RemoveElement\RemoveElement\bin\Debug\netcoreapp3.1\RemoveElement.pdb
+D:\Marco\Cursos\C#\RemoveElement\RemoveElement\obj\Debug\netcoreapp3.1\RemoveElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Marco\Cursos\C#\RemoveElement\RemoveElement\obj\Debug\netcoreapp3.1\RemoveElement.AssemblyInfoInputs.cache
+D:\Marco\Cursos\C#\RemoveElement\RemoveElement\obj\Debug\netcoreapp3.1\RemoveElement.AssemblyInfo.cs
+D:\Marco\Cursos\C#\RemoveElement\RemoveElement\obj\Debug\netcoreapp3.1\RemoveElement.csproj.CoreCompileInputs.cache
+D:\Marco\Cursos\C#\RemoveElement\RemoveElement\obj\Debug\netcoreapp3.1\RemoveElement.dll
+D:\Marco\Cursos\C#\RemoveElement\RemoveElement\obj\Debug\netcoreapp3.1\RemoveElement.pdb
+D:\Marco\Cursos\C#\RemoveElement\RemoveElement\obj\Debug\netcoreapp3.1\RemoveElement.genruntimeconfig.cache
